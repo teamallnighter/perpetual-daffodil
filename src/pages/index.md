@@ -48,7 +48,7 @@ sections:
       through new and exciting products, we offer the best service for our
       clients.
     actions:
-      - label: Contact Me
+      - label: Contact Us
         url: /contact
         style: button
   - section_id: recent-posts
