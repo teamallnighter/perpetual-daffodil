@@ -49,7 +49,7 @@ sections:
       clients.
     actions:
       - label: Contact Us
-        url: /contact
+        url: 'https://'
         style: button
   - section_id: recent-posts
     type: section_posts
