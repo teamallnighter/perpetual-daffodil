@@ -6,8 +6,9 @@ sections:
     type: section_hero
     title: Connelly  & Company Property Management
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Connelly & Company Management LTD provides property management services in
+      Calgary, Alberta. The company was formed in October 1980 as a family
+      company, and remains a family company to this day.
     actions: []
   - section_id: about
     type: section_content
